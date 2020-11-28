@@ -12,7 +12,7 @@ export default (() => {
 			<meta name={"description"} content={"Web site created using quarkly.io"} />
 			<link rel={"shortcut icon"} href={"https://uploads.quarkly.io/readme/cra/favicon-32x32.ico"} type={"image/x-icon"} />
 		</Helmet>
-		<Section sm-padding="5px 0 10px 0" background="#000000">
+		<Section sm-padding="5px 0 10px 0" background="#000000" padding="4px 0 4px 0">
 			<Override slot="SectionContent" sm-width="64px" sm-max-width="64px" sm-min-width="64px" />
 			<Image
 				width="64px"
